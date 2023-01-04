@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title><b>"class-2 (html table home work )"</b></title>
+    </head>
+<style>
+table, ht, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>Compare plan details</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Feature></th>
+    <th>Basic</th>
+    <th>Professional</th>
+  </tr>
+  <tr>
+    <td>Number of users included</td>
+    <td>10,000</td>
+    <td>10,000</td>
+  </tr>
+  <tr>
+    <td>Each additional 1,000 users</td>
+    <td>	
+        $10/month
+        
+        </td>
+    <td>	
+        $15/month
+        
+        </td>
+  </tr>
+  <tr>
+    <th>Marketing email</th>
+    <th>Unlimited</th>
+    <th>Unlimited</th>
+  </tr>
+  <tr>
+    <td>Customer lifecycle email</td>
+    <td>Unlimited</td>
+    <td>Unlimited</td>
+  </tr>
+  <tr>
+    <td>In-app messages</td>
+    <td>Unlimited</td>
+    <td>Unlimited</td>
+  </tr>
+  <tr>
+    <th>Custom properties</th>
+    <th>20</th>
+    <th>Unlimited</th>
+  </tr>
+  <tr>
+    <td>Direct API integration</td>
+    <td>&#745;</td>
+    <td>&#745;</td>
+  </tr>
+  <tr>
+    <td>Third-party integrations</td>
+    <td>&#745;</td>
+    <td>&#745;</td>
+  </tr>
+  <tr>
+    <th>User profiles and activity feed</th>
+    <th>&#745;</th>
+    <th>&#745;</th>
+  </tr>
+  <tr>
+    <td>User segments</td>
+    <td>&#745;</td>
+    <td>&#745;</td>
+  </tr>
+  <tr>
+    <td>Behavior-based campaigns</td>
+    <td>&#745;</td>
+    <td>&#745;</td>
+  </tr>
+  <tr>
+    <td>Broadcasts</td>
+    <td>&#745;</td>
+    <td>&#745;</td>
+  </tr>
+  <tr>
+    <td>Signup forms</td>
+    <td>&#745;</td>
+    <td>&#745;</td>
+  </tr>
+  <tr>
+    <td>Open and click tracking</td>
+    <td>&#745;</td>
+    <td>&#745;</td>
+  </tr>
+  <tr>
+    <td>Company-level data integration</td>
+    <td>&#745;</td>
+    <td>&#745;</td>
+  </tr>
+  <tr>
+    <td>Company profiles and activity feed</td>
+    <td> &rarr;</td>
+    <td>&#745;</td>
+  </tr>
+  <tr>
+    <td>Company segments</td>
+    <td> &rarr;</td>
+    <td>&#745;</td>
+  </tr>
+  <tr>
+    <td>Company-triggered compaigns</td>
+    <td> &rarr;</td>
+    <td>&#745;</td>
+  </tr>
+  <tr>
+    <td>Team seats included</td>
+    <td>5</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Customer support level</td>
+    <td>Regular</td>
+    <td>Premium</td>
+  </tr>
+  <tr>
+    <td>Guided onboarding</td>
+    <td>&#745;</td>
+    <td>Included</td>
+  </tr>
+  <tr>
+    <td>Dedicated account manager</td>
+    <td>&#745;</td>
+    <td>Included</td>
+  </tr>
+</table>
+
+<p>To understand the example better, we have added borders to the table.</p>
+
+</body>
+</html>
